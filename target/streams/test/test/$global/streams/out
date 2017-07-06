@@ -1,0 +1,16 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(exceptions.OptionTest, org.scalatest.tools.Framework$$anon$1@7bb8903b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(datastructures.TreeTest, org.scalatest.tools.Framework$$anon$1@7bb8903b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(purelyFunctionalState.pureFunctionsTest, org.scalatest.tools.Framework$$anon$1@7bb8903b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(datastructures.ListTest, org.scalatest.tools.Framework$$anon$1@7bb8903b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(laziness.StreamTest, org.scalatest.tools.Framework$$anon$1@7bb8903b, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 189 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 44[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 5, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 44, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	datastructures.ListTest[0m
+[0m[[0mdebug[0m] [0m	purelyFunctionalState.pureFunctionsTest[0m
+[0m[[0mdebug[0m] [0m	exceptions.OptionTest[0m
+[0m[[0mdebug[0m] [0m	laziness.StreamTest[0m
+[0m[[0mdebug[0m] [0m	datastructures.TreeTest[0m
